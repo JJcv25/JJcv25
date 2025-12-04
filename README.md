@@ -1,12 +1,11 @@
-👋 Hello world, I'm @Jhoncv25
+💻 Software Development Student | 👾 Junior Developer
 
-💻 Software Development Student | 👾 Junior Data Engineer
+🚀 Apasionado por construir soluciones tecnológicas que aporten valor y simplifiquen procesos.
+💡 Interesado en el desarrollo de aplicaciones, automatización y el uso de la tecnología para resolver problemas reales.
 
-📊 Passionate about Data Science and Business Analytics.
-🚀 Focused on solving problems and generating insights through data.
+🛠 Tech Stack:
+Python | JavaScript | SQL | HTML | CSS | Git | Power BI
 
-🧠 Python | SQL | Power BI | Excel
+☁️ Actualmente fortaleciendo mis habilidades en Cloud Computing y buenas prácticas de desarrollo.
 
-☁️ Currently training in Cloud Data Engineering.
-
-💡 "Turning data into smart decisions."
+📘 "Code, learn, and build — every line is una oportunidad para crecer."
